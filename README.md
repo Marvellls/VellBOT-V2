@@ -81,22 +81,23 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Denara Bot"
-global.ownername= "DENARA"
+global.botname = "VellBOT"
+global.ownername= "Marvell"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/DenaraBot"
 global.github = "https://zeeone-ofc.github.io/"
-global.email = "denarabot1@gmail.com"
+global.email = "pratamailhamreza@gmail.com"
 global.region = "Indonesia"
-global.ownernomer = "6285727492435"
-global.ownernomerr = "+6285727492435"
+global.ownernomer = "6281945744775"
+global.ownernomerr = "+6281945744775"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285727492435","6285727492435","6285727492435"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285727492435","6281945744775"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Denara Bot' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
-global.sessionName = 'session'
+global.sessionName = 'session.data.js
+'
 ```
 
 ## ```HOW TO DEPLOY```
