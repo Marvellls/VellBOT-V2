@@ -1,1 +1,1 @@
-worker: node . --session 'session.js'
+worker: node . --session 'session.json'
