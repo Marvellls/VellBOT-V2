@@ -1,7 +1,7 @@
 {
-  "name": "Denara-V2",
+  "name": "VellBOT-V2",
   "version": "1.1.5",
-  "description": "DenaraBot, Only update in YouTube DENARA BOT",
+  "description": "VellBOT, Only update in YouTube Marvell",
   "main": "denara.js",
   "license": "MIT",
   "scripts": {
